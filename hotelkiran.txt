@@ -2,11 +2,14 @@
 
 welcome to hotel kiran
 veg 
-  maggie
+  idly
   dosa
 non veg
   chicken
   mutton
+evening 
+  gobi
+  baby
 
 
 Thanks you :)
